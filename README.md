@@ -13,4 +13,4 @@ There are two datasets:
 * <i>kiva_mpi_region_locations</i> - a data set containing regional data and MPI metrics
   
 ## Libraries used
-<i> numpy, pandas, matplotlib, seaborn, math, datetime </i>
+<i> numpy, pandas, matplotlib, seaborn, missingno, math, datetime </i>
